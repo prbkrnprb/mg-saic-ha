@@ -18,6 +18,7 @@ REGION_BASE_URIS = {
     "Australia": "https://gateway-mg-au.soimt.com/api.app/v1/",
     "Israel": "https://gateway-mg-il.soimt.com/api.app/v1/",
     "Rest of World": "https://gateway-mg-eu.soimt.com/api.app/v1/",
+    "India": "https://iov-gateway.mgindia.co.in/api.app/v1/",
 }
 
 # List of regions for selection in the config flow
